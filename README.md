@@ -1,6 +1,6 @@
 # Coffee-Code
 
-## Create a webpage in --(5) steps
+## Create a webpage in 3 steps
 
 ### Step 1: Sign up for IBM Cloud
 
@@ -22,7 +22,7 @@ For this tutorial, we'll be creating a Python app, so we'll select the Python ti
 
 ![4](images/4.PNG)
 
-Give a neame for your application. Your app name will be the host name as well, so it must be unique!
+Give a name for your application. Your app name will be the host name as well, so it must be unique!
 
 ![5](images/5.PNG)
 
