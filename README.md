@@ -34,5 +34,7 @@ That's it! There you have it, you just created and deployed a website.
 
 Click on 'Visit app URL' to take a look at the website
 
+![6](images/6.PNG)
 
+![7](images/7.PNG)
 
