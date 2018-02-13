@@ -49,8 +49,8 @@ You can get these details from the IBM Cloud dashboard.
 
 ![IBM-Cloud-Dashboard--org-and-space-name](images/IBM-Cloud-Dashboard--org-and-space-name.png)
 
-The organizatoin name is shown under "Cloud Foundry Org", and in general it's the same as your email.
-The space is shown under "Cloud Foundry Space", and is usually called 'dev'. 
+The organizatoin name is shown under "CLOUD FOUNDRY ORG", and in general it's the same as your email.
+The space is shown under "CLOUD FOUNDRY SPACE", and is usually called 'dev'. 
 
 ``` bx target -o [organization_name] -s [space_name] ```
 
