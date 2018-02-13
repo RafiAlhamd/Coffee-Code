@@ -1,8 +1,8 @@
 # Coffee-Code
 
-## Create a webpage in 3 steps
+## Create a portfolio website in 3 steps
 
-### Step 1: Sign up for IBM Cloud
+### Step 1: Sign up for IBM Cloud and download CLI
 
 Go to http://ibm.biz/astrolabs, click 'Create a free account' 
 
@@ -12,29 +12,20 @@ and fill in email, name, password, etc
 
 ![2](images/2.PNG)
 
-### Step 2: Create the application
+Download the IBM Cloud CLI from https://clis.ng.bluemix.net/
 
-After registering successfully, select 'Catalog' and then 'Cloud Foundry Apps'
+### Step 2: 
 
-![3.3](images/3.3.PNG)
+Download the application files and save them from: 
 
-For this tutorial, we'll be creating a Python app, so we'll select the Python tile
+If you're running on Windows, open up command line(cmd)
+If you're running on Mac, open up the terminal
 
-![4](images/4.PNG)
+Navigate to the folder with the application files using 'cd' followed by the folder path 
 
-Give a name for your application. Your app name will be the host name as well, so it must be unique!
+IMAGE
 
-![5](images/5.PNG)
 
-By default, the Lite plan is selected, select the amount of memory you'd like to allocate and click 'Create'
 
-### Step 3: 
 
-That's it! There you have it, you just created and deployed a website.
-
-Click on 'Visit app URL' to take a look at the website
-
-![6](images/6.PNG)
-
-![7](images/7.PNG)
 
