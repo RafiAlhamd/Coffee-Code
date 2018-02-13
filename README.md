@@ -56,10 +56,13 @@ To deploy the app:
 ```bx app push``` 
 
 
-
 And voila! There you go, you just deployed a portfolio website. 
 
 You can visit your app via the URL which can be found at the end of the ```bx app push``` command or from the IBM Cloud dashboard.
+
+![url](images/url.PNG)
+
+![urldb](images/urldb.PNG)
 
 
 
