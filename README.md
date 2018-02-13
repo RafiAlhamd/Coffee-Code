@@ -19,12 +19,16 @@ Download the IBM Cloud CLI from https://clis.ng.bluemix.net/
 
 Download the application files and save them from: 
 
-Open the 'Manifest.yml' file and edit the name of your app.
+Open the 'Manifest.yml' file in the 'static' folder in a text editor of your choice, and edit the name of your app.
 Make sure that it is something uniques as this will be your host name too.
 
 ![appname](images/appname.PNG)
 
+In the same folder, open up the 'index.html' file to edit the information that would show up on yoor webpage such as name, title, description.
 
+![change](images/change.PNG)
+
+Don't forget to hit 'Save'!
 
 ### Step 3: Deploy using CLI
 
@@ -41,7 +45,9 @@ Log into your IBM Cloud account through the CLI with the following command:
 
 Select the organization and space in which you would create the app.
 
-The organizatoin name is the same as your email, the space is usually called 'dev'
+You can get these details from the IBM Cloud dashboard.
+
+The organizatoin name usually is the same as your email and the space is usually called 'dev'. 
 
 ``` bx target -o [organization_name] -s [space_name] ```
 
