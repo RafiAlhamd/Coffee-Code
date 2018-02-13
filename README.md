@@ -25,6 +25,10 @@ Navigate to the folder with the application files using 'cd' followed by the fol
 
 IMAGE
 
+Log into your IBM Cloud account through the CLI with the following command: 
+
+``` bx login -a https://api.eu-gb.bluemix.net -u [youremail] -p [yourpassword] ```
+
 
 
 
