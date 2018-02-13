@@ -1,5 +1,0 @@
-applications:
-- path: .
-  memory: 64M
-  name: testforcnc
-  buildpack: staticfile_buildpack
