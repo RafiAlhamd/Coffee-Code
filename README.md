@@ -12,7 +12,7 @@ and fill in email, name, password, etc
 
 ![2](images/2.PNG)
 
-Download the IBM Cloud CLI from https://clis.ng.bluemix.net/
+Download the IBM Cloud CLI(Command Line Interface) from https://clis.ng.bluemix.net/
 
 
 ### Step 2: Download and modify application files
