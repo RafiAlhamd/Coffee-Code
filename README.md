@@ -45,6 +45,9 @@ The organizatoin name is the same as your email, the space is usually called 'de
 
 ``` bx target -o [organization_name] -s [space_name] ```
 
+To deploy the app:
+
+```bx app push``` 
 
 
 
