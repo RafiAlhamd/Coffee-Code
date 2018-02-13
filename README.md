@@ -17,7 +17,7 @@ Download the IBM Cloud CLI from https://clis.ng.bluemix.net/
 
 ### Step 2: Download and modify application files
 
-Download the application files and save them from: 
+Download or clone the application files and save them from: https://github.com/prernabhojwani/Coffee-Code
 
 Open the 'Manifest.yml' file in the 'static' folder in a text editor of your choice, and edit the name of your app.
 Make sure that it is something uniques as this will be your host name too.
