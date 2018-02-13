@@ -14,6 +14,7 @@ and fill in email, name, password, etc
 
 Download the IBM Cloud CLI from https://clis.ng.bluemix.net/
 
+
 ### Step 2: Download and modify application files
 
 Download the application files and save them from: 
@@ -21,7 +22,7 @@ Download the application files and save them from:
 Open the 'Manifest.yml' file and edit the name of your app.
 Make sure that it is something uniques as this will be your host name too.
 
-IMAGE
+![appname](images/appname.PNG)
 
 
 
@@ -32,7 +33,7 @@ If you're running on Mac, open up the terminal
 
 Navigate to the folder with the application files using 'cd' followed by the folder path 
 
-IMAGE
+![cd](images/cd.PNG)
 
 Log into your IBM Cloud account through the CLI with the following command: 
 
