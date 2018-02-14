@@ -1,5 +1,5 @@
 applications:
 - path: .
   memory: 64M
-  name: com-rafialhamd-html-css-app-by-ibm-at-astrolabs
+  name: application-name
   buildpack: staticfile_buildpack
