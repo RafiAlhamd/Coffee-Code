@@ -43,7 +43,7 @@ Log into your IBM Cloud account through the CLI with the following command:
 
 ``` bx login -a https://api.eu-gb.bluemix.net -u [youremail] -p [yourpassword] ```
 
-Select the organization and space in which you would create the app.
+Select the 'organization name' and 'space name' in which you would create the app.
 
 You can get these details from the IBM Cloud dashboard.
 
